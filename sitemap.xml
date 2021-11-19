@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://followme.best/</loc>
+    <lastmod>2021-11-19T16:13:11+08:00</lastmod>
+  </url><url>
+    <loc>http://followme.best/posts/hugo/</loc>
+    <lastmod>2021-11-19T16:13:11+08:00</lastmod>
+  </url><url>
+    <loc>http://followme.best/posts/</loc>
+    <lastmod>2021-11-19T16:13:11+08:00</lastmod>
+  </url><url>
+    <loc>http://followme.best/categories/</loc>
+  </url><url>
+    <loc>http://followme.best/tags/</loc>
+  </url>
+</urlset>
